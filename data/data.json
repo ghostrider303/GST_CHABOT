@@ -1,0 +1,307 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "goodbye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "heya",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "goodbye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "bye bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "see ya",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "see you later",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "What Is The Justification Of Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Are The Major Features Of The Proposed Payment Procedures Under Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": " How Will Gst Benefit The Exporters?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Will Gst  Benefit Industry, Trade And Agriculture?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Can The Burden Of Tax, In General, Fall Under Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Are The Major Features Of The Proposed Returns Filing Procedures Under Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Are The Major Features Of The Proposed Payment Procedures Under Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Are The Major Features Of The Proposed Registration Procedures Under Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Are The Major Features Of The Constitution (122nd Amendment) Bill, 2014?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Will It Be Used For The Implementation Of Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Will Be Inter-state Transactions Of Goods And Services Be Taxed Under Gst In Terms Of Igst Method?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Would Gst Be Administered In India?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Are The Major Milestones Pertinent To Gst Bill Introduction In India?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Which Taxes At The Centre And State Level Are Being Subsumed Into Goods And Services Tax (gst)?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": " What Are The Benefits Of Goods And Services Tax (gst)?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": " What Is Goods And Services Tax (gst)? How Does It Work?",
+        "intent": "question",
+        "entities": []
+      },
+	  {
+        "text": "What Is The Best Outcome Customers Can Expect, In Case Of Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Why Is Gst Being Opposed By States?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Will The Rules For Administration Of Cgst And Sgst Be Framed?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Are The Legislative Steps Being Taken For Cgst And Sgst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Why Does Introduction Of Gst Require A Constitutional Amendment?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Will Cross Utilization Of Credits Between Goods And Services Be Allowed Under Gst Regime?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Will Imports Be Taxed Under Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Is The Scope Of Composition And Compounding Scheme Of Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Is The Concept Of Providing Threshold Exemption Into A Tax Regime?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Is The Rate Structure Proposed Under Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Which Central And State Taxes Are Proposed To Be Subsumed Under Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Would A Particular Transaction Of Goods And Services Be Taxed Simultaneously Under Central Gst (cgst) And State Gst (sgst)?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Why Is Dual Gst Required?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Are The Salient Features Of The Proposed Gst Model?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Will Gst Benefit The Common Consumers?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Will Gst Benefit The Small Entrepreneurs And Small Traders?",
+        "intent": "question",
+        "entities": []
+      },
+	  {
+        "text": "Is Gst An Accepted System Of Taxation Across The World?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Will The Gst Impact Other Taxes Like Income Tax Or Corporate Tax?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Why Are States Unhappy With The Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Will All Goods And Services Be Covered Under The Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Will The Rate Rise In Case Of Gst Making It Costlier?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Where Is The Gst Going To Be Collected?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Who Bears The Final Tax In The Process?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Is The Main Change That Will Be Witnessed With The Introduction Of The Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Are The Stages Covered In The Gst?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How To File Gst Return Online?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": " What Are The Contribution Of It Technology In The Enforcement Of Gst Regime?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Will The Gst Make A Change? Pls Give An Example?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "How Gst Will Be Levied In India With An Effective Administration?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Even After Gst, Should People Need To Pay Income Tax?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "What Is The Best Outcome Customers Can Expect, In Case Of Gst?",
+        "intent": "question",
+        "entities": []
+      }
+	  
+    ]
+  }
+}
